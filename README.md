@@ -1,4 +1,5 @@
-## c_language_zer0_to_hero
+## C language zero to Hero
+<br>
 The C programming language has spurred many language developments 
 
 The C programming language has spurred many language developments since its invention by Dennis Ritchie in the early 1970s. Many modern programming languages owe their syntax to C: learning C first makes learning other languages such as Java, php, and Swift much easier. C is still a very popular programming language after over 40 years
